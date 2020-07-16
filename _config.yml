@@ -83,18 +83,18 @@ author:
   name             : "Andy T. Liu<br/>劉廷緯"
   avatar           : "profile.jpeg"
   bio              : "Ph.D. student<br/>at National Taiwan University (NTU)"
-  location         : "Taiwan"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3FpZleMAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Andy_Liu63"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/tingweiandyliu/"
   foursquare       :
   github           : "andi611"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/andy-t-liu-059a22137/"
+  orcid            : "https://orcid.org/0000-0002-2502-3992"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
