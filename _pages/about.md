@@ -13,10 +13,12 @@ redirect_from:
 Hi! I'm Andy Ting-Wei(廷緯) Liu, I recieved my B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
 I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU).
 I mainly work on self-supervised and unsupervised algorithms of speech, including speech pre-training, representation learning, and voice conversion.<br/>
-I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing.
+
+I am a member of the Speech Lab working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing.
 I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working under the [PhD program](https://aics.asus.com/studentprograms/).<br/>
 
-[Publications](#publications) / [Awards](#awards) / [Experience](#experience)  / [Projects](#projects) / [CV](files/cv.pdf)
+# Table of Contents
+[Publications](#publications) / [Awards](#awards) / [Experience](#experience)  / [Projects](#projects)
 
 # Publications
 
@@ -49,6 +51,8 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working unde
     Po-chun Hsu, Chun-hsuan Wang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Submitted to INTERSPEECH 2020, under review*<br/>
     [ [arxiv](https://arxiv.org/abs/1912.02461) | [demo](https://bogihsu.github.io/Robust-Neural-Vocoding/) ]
+
+[Back](#about-me)
 
 <!---
 
@@ -83,3 +87,5 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working unde
 - English TTS System with Tacotron [ [repo](https://github.com/andi611/TTS-Tacotron-Pytorch) ]
 - Code-Switch TTS System with Tacotron[ [repo](https://github.com/andi611/CS-Tacotron-Pytorch) ]
 - Chatbot System with Sequence GAN [ [repo](https://github.com/andi611/Conditional-SeqGAN-Tensorflow) ]
+
+[Back](#about-me)
