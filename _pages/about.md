@@ -18,7 +18,10 @@ I am a member of the Speech Lab working with Prof. [Hung-yi Lee](http://speech.e
 I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working under the [PhD program](https://aics.asus.com/studentprograms/).<br/>
 
 # Table of Contents
-[Publications](#publications) / [Awards](#awards) / [Experience](#experience)  / [Projects](#projects)
+- [Publications](#publications)
+- [Awards](#awards)
+- [Experience](#experience)
+- [Projects](#projects)
 
 # Publications
 
