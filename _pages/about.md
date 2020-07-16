@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 # About Me
 
 Hi! I'm Andy Ting-Wei(廷緯) Liu, I recieved my B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
@@ -17,22 +16,18 @@ I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](htt
 I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working under the [PhD program](https://aics.asus.com/studentprograms/).<br/>
 I mainly work on self-supervised and unsupervised algorithms in the speech domain, including speech representation learning, speech pre-training, speech recognition, and voice conversion.
 
-
-[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
-<!-- 
-/ [Talks](#Talks) 
--->
+[Publications](#publications) / [Awards](#awards) / [Experience](#experience)  / [Projects](#projects) / [CV](files/cv.pdf)
 
 # Publications
 
 - **Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders**<br/>
     <u>Andy T. Liu</u>, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee<br/>
-    *Lecture session in ICASSP 2020, top conference organized by the IEEE Signal Processing Society (SPS)*<br/>
+    *Lecture session in ICASSP 2020, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
     [ [arxiv](https://arxiv.org/abs/1910.12638) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) | [slide](https://bit.ly/icassp2020-mockingjay) | [oral](https://youtu.be/THylmb3hZVs) ]
 
 - **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**<br/>
     <u>Andy T. Liu</u>, Po-chun Hsu, Hung-yi Lee<br/>
-    *Oral session in INTERSPEECH 2019, top conference organized by the International Speech Communication Association (ISCA)*<br/>
+    *Oral session in INTERSPEECH 2019, conference organized by the International Speech Communication Association (ISCA)*<br/>
     [ [arxiv](https://arxiv.org/abs/1905.11563) | [code](https://github.com/andi611/ZeroSpeech-TTS-without-T) | [slide](http://bit.ly/20190917_interspeech_talk) ]
 
 - **TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech**<br/>
@@ -55,24 +50,9 @@ I mainly work on self-supervised and unsupervised algorithms in the speech domai
     *Submitted to INTERSPEECH 2020, under review*<br/>
     [ [arxiv](https://arxiv.org/abs/1912.02461) | [demo](https://bogihsu.github.io/Robust-Neural-Vocoding/) ]
 
-
 <!---
-# Teaching
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/DSP2018Autumn/">Fundamentals of Speech Signal Processing</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Fall 2018 & Spring 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Deep Learning for Human Language Processing</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Deep Learning for Computer Vision</a></span> <span style="flex:  0 0 auto"><i>NTU GICE, Fall 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Advanced Deep Learning</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Spring 2018</i></span></p>
-
-
-# Talks
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](http://aliensunmin.github.io/aii_workshop/3rd/) , *3rd AII workshop, New Taipei, Taiwan, July 2019*
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) , *CVPR, CA, USA, June 2019*
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation]() , *Yahoo! Inc., Taipei, Taiwan, May 2019*
-
-
-# Honors
+# Awards
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Verizon Media AI Scholarship</span> <span style="flex:  0 0 auto"><i>Verizon Media, Taiwan 2019</i></span></p>
@@ -82,9 +62,24 @@ I mainly work on self-supervised and unsupervised algorithms in the speech domai
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Technology Scholarship</span> <span style="flex:  0 0 auto"><i>Foxconn Education Foundation 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Presidential Awards</span> <span style="flex:  0 0 auto"><i>NTU CSIE 2017/2018</i></span></p>
 
+# Experience
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/DSP2018Autumn/">Fundamentals of Speech Signal Processing</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Fall 2018 & Spring 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Deep Learning for Human Language Processing</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Deep Learning for Computer Vision</a></span> <span style="flex:  0 0 auto"><i>NTU GICE, Fall 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Advanced Deep Learning</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Spring 2018</i></span></p>
+
+# Talks
+- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](http://aliensunmin.github.io/aii_workshop/3rd/) , *3rd AII workshop, New Taipei, Taiwan, July 2019*
+- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) , *CVPR, CA, USA, June 2019*
+- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation]() , *Yahoo! Inc., Taipei, Taiwan, May 2019*
+-->
 
 # Projects
 
-- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) ]
-- Mandarin Spoken QA System [ *[demo](http://deeplearning.website:8080/?fbclid=IwAR1G6mdk34Q9vA29KhKyn7AFNblR2iV3c2N21H7AbKXS9EN9VuFgO8vIrBE)* ]
--->
+- The S3PRL Toolkit: Self-Supervised Speech Pre-training and Representation Learning [ [repo](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ![GitHub stars](https://img.shields.io/github/stars/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning?style=social&label=Star&maxAge=2592000) ]
+- Voice Conversion System with ZeroSpeech Challenge [ [repo](https://github.com/andi611/ZeroSpeech-TTS-without-T) ]
+- English TTS System with Tacotron [ [repo](https://github.com/andi611/TTS-Tacotron-Pytorch) ]
+- Code-Switch TTS System with Tacotron[ [repo](https://github.com/andi611/CS-Tacotron-Pytorch) ]
+- Chatbot System with Sequence GAN [ [repo](https://github.com/andi611/Conditional-SeqGAN-Tensorflow) ]
