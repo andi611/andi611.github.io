@@ -11,13 +11,12 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Alexander Haojan(浩然) Liu, I recieved my M.S. and B.S. degrees  in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
-I was a member of Speech Processing Lab working with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
-In addition, I also worked with Prof. [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) during undergraduate years in computer vision and representation learning.
+Hi! I'm Andy Ting-Wei(廷緯) Liu, I recieved my B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
+I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU).
+I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing.
+I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working under the [PhD program](https://aics.asus.com/studentprograms/).
+I mainly work on self-supervised and unsupervised algorithms in the speech domain, including speech representation learning, speech pre-training, speech recognition, and voice conversion.
 
-<!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
-Currently, my research interest focus on  
-Before joining MIT,-->
 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
 <!-- 
@@ -26,44 +25,38 @@ Before joining MIT,-->
 
 # Publications
 
+- **Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders**<br/>
+    <u>Andy T. Liu</u>, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee<br/>
+    *Lecture session in ICASSP 2020, top conference organized by the IEEE Signal Processing Society (SPS)*<br/>
+    [ [arxiv](https://arxiv.org/abs/1910.12638) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) | [slide](https://bit.ly/icassp2020-mockingjay) | [oral](https://youtu.be/THylmb3hZVs) ]
+
+- **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**<br/>
+    <u>Andy T. Liu</u>, Po-chun Hsu, Hung-yi Lee<br/>
+    *Oral session in INTERSPEECH 2019, top conference organized by the International Speech Communication Association (ISCA)*<br/>
+    [ [arxiv](https://arxiv.org/abs/1905.11563) | [code](https://github.com/andi611/ZeroSpeech-TTS-without-T) | [slide](http://bit.ly/20190917_interspeech_talk) ]
+
+- **TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech**<br/>
+    <u>Andy T. Liu</u>, Shang-Wen Li, Hung-yi Lee<br/>
+    *Submitted to IEEE/ACM TASLP (Transactions on Audio, Speech, and Language Processing)*<br/>
+    [ [arxiv](https://arxiv.org/abs/2007.06028) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
+
+- **Understanding Self-Attention of Self-Supervised Audio Transformers**<br/>
+    Shu-wen Yang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
+    *Submitted to INTERSPEECH 2020, under review*<br/>
+    [ [arxiv](https://arxiv.org/abs/2006.03265) | [demo](https://github.com/leo19941227/Self-Attention-on-SATs) ]
+
+- **Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning**<br/>
+    Haibin Wu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
+    *Submitted to INTERSPEECH 2020, under review*<br/>
+    [ [arxiv](https://arxiv.org/abs/2006.03214) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
+
+- **Towards Robust Neural Vocoding for Speech Generation: A Survey**<br/>
+    Po-chun Hsu, Chun-hsuan Wang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
+    *Submitted to INTERSPEECH 2020, under review*<br/>
+    [ [arxiv](https://arxiv.org/abs/1912.02461) | [demo](https://bogihsu.github.io/Robust-Neural-Vocoding/) ]
+
+
 <!---
-- **Semi-supervised Learning for Multi-speaker Text-to-speech Synthesis Using Discrete Speech Representation**<br/>
-    Tao Tu, Yuan-Jui Chen, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
-    *Under review*<br/>
-    [ [pdf](https://arxiv.org/abs/2005.08024) | [demo](https://ttaoretw.github.io/multispkr-semi-tts/demo.html ) ]
--->
-
-- **Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation**<br/>
-    Shun-Po Chuang, Tzu-Wei Sung, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
-    *Annual Meeting of the Association for Computational Linguistics (ACL) 2020*<br/>
-    [ [pdf](https://arxiv.org/abs/2005.10678) | [presentation](https://slideslive.com/38929303/worse-wer-but-better-bleu-leveraging-word-embedding-as-intermediate-in-multitask-endtoend-speech-translation ) ]
-
-- **Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning**<br/>
-    <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Tao Tu <sub>(co-first)</sub>,  Hung-yi Lee, Lin-shan Lee<br/>
-    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
-    [ [pdf](https://arxiv.org/abs/1910.12729) | [demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html) ]
-
-- **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**<br/>
-    <u>Alexander H. Liu</u>, Tzu-Wei Sung, Shun-Po Chuang, Hung-yi Lee, Lin-shan Lee<br/>
-    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
-    [ [pdf](https://arxiv.org/abs/1910.12740) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
-
-- **Towards Scene Understanding: Unsupervised Monocular Depth Estimation with Semantic-Aware Representation**<br/>
-    <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Po-Yi Chen <sub>(co-first)</sub>, Yen-Cheng Liu, Yu-Chiang Frank Wang<br/>
-    *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*<br/>
-    [ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.pdf) | [oral](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) | [supplementary](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.html) ]
-    
-- **Adversarial Training of End-to-end Speech Recognition Using a Criticizing Language Model**<br/>
-    <u>Alexander H. Liu</u>, Hung-yi Lee, Lin-shan Lee<br/>
-    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*<br/>
-    [ [pdf](https://arxiv.org/abs/1811.00787) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
-    
-- **A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation**<br/>
-    <u>Alexander H. Liu</u>, Yen-Cheng Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang<br/>
-    *In Advances in Neural Information Processing Systems (NeurIPS) 2018*<br/>
-    [ [pdf](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) | [code](https://github.com/Alexander-H-Liu/UFDN) | [supplementary & reviews](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation)  ]
-
-
 # Teaching
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/DSP2018Autumn/">Fundamentals of Speech Signal Processing</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Fall 2018 & Spring 2019</i></span></p>
@@ -72,12 +65,12 @@ Before joining MIT,-->
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Deep Learning for Computer Vision</a></span> <span style="flex:  0 0 auto"><i>NTU GICE, Fall 2018</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Advanced Deep Learning</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Spring 2018</i></span></p>
 
-<!-- 
+
 # Talks
 - [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](http://aliensunmin.github.io/aii_workshop/3rd/) , *3rd AII workshop, New Taipei, Taiwan, July 2019*
 - [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) , *CVPR, CA, USA, June 2019*
 - [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation]() , *Yahoo! Inc., Taipei, Taiwan, May 2019*
--->
+
 
 # Honors
 
@@ -94,3 +87,4 @@ Before joining MIT,-->
 
 - Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) ]
 - Mandarin Spoken QA System [ *[demo](http://deeplearning.website:8080/?fbclid=IwAR1G6mdk34Q9vA29KhKyn7AFNblR2iV3c2N21H7AbKXS9EN9VuFgO8vIrBE)* ]
+-->
