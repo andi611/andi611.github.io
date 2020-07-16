@@ -11,10 +11,10 @@ redirect_from:
 # About Me
 
 Hi! I'm Andy Ting-Wei(廷緯) Liu, I recieved my B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
-I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU).<br/>
+I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU).
+I mainly work on self-supervised and unsupervised algorithms of speech, including speech pre-training, representation learning, and voice conversion.<br/>
 I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing.
 I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working under the [PhD program](https://aics.asus.com/studentprograms/).<br/>
-I mainly work on self-supervised and unsupervised algorithms in the speech domain, including speech representation learning, speech pre-training, speech recognition, and voice conversion.
 
 [Publications](#publications) / [Awards](#awards) / [Experience](#experience)  / [Projects](#projects) / [CV](files/cv.pdf)
 
