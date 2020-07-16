@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander H. Liu"
+title                    : "Andy T. Liu"
 title_separator          : "-"
-name                     : &name "Alexander H. Liu"
+name                     : &name "Andy T. Liu"
 description              : &description "personal description"
-url                      : https://alexander-h-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andi611.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alexander-h-liu/alexander-h-liu.github.io"
+repository               : "andi611/andi611.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander H. Liu<br/>劉浩然"
-  avatar           : "profile.png"
+  name             : "Andy T. Liu<br/>劉廷緯"
+  avatar           : "9267238F-4B31-43EF-BD31-DA3110FC1446.jpeg"
   bio              : "M.S. student<br/>at National Taiwan University"
   location         : "Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=LIiCDa0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=3FpZleMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Alexander-H-Liu"
+  github           : "andi611"
   google_plus      :
   keybase          :
   instagram        :
