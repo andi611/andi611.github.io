@@ -15,11 +15,11 @@ I am currently a Ph.D. student at the Graduate Institute of Communication Engine
 I mainly work on self-supervised and unsupervised algorithms of speech, including speech pre-training, representation learning, and voice conversion.<br/>
 
 I am a member of the Speech Lab working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing.
-I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working under the [PhD program](https://aics.asus.com/studentprograms/).<br/>
+I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [PhD program](https://aics.asus.com/studentprograms/).<br/>
 
 # Table of Contents
 - [Publications](#publications)
-- [Awards](#awards)
+- [Honors](#honors)
 - [Experience](#experience)
 - [Projects](#projects)
 
@@ -57,30 +57,34 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, working unde
 
 [Back](#about-me)
 
-<!---
-
-# Awards
+# Honors
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Verizon Media AI Scholarship</span> <span style="flex:  0 0 auto"><i>Verizon Media, Taiwan 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Best Student Speaker Award</span> <span style="flex:  0 0 auto"><i>3rd AII Workshop 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">1st Price, Formosa Spoken QA Challenge</span> <span style="flex:  0 0 auto"><i>Ministry of Science and Technology, Taiwan 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Excellent Teaching Assistant Award</span> <span style="flex:  0 0 auto"><i>NTU CSIE Dept. 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Technology Scholarship</span> <span style="flex:  0 0 auto"><i>Foxconn Education Foundation 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Presidential Awards</span> <span style="flex:  0 0 auto"><i>NTU CSIE 2017/2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Outstanding Students Conference Grant</span> <span style="flex:  0 0 auto"><i>FAOS, Taiwan 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Undergraduate Innovation Award</span> <span style="flex:  0 0 auto"><i>NTU EE 2017</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Lotus Award</span> <span style="flex:  0 0 auto"><i>Government, Macau 2014</i></span></p>
+
+[Back](#about-me)
 
 # Experience
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/DSP2018Autumn/">Fundamentals of Speech Signal Processing</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Fall 2018 & Spring 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Deep Learning for Human Language Processing</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Deep Learning for Computer Vision</a></span> <span style="flex:  0 0 auto"><i>NTU GICE, Fall 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Advanced Deep Learning</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Spring 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Machine Learning Special Project</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, 2018-Pres.</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Fall 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655">IEEE/ACM TASLP</a></span> <span style="flex:  0 0 auto"><i>Journal, 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://2020.ieeeicassp.org/">IEEE SPS ICASSP 2020</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://interspeech2019.org/">ISCA INTERSPEECH 2019</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=87194&copyownerid=13881">ACMSE 2019</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
 
+[Back](#about-me)
+
+<!---
 # Talks
 - [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](http://aliensunmin.github.io/aii_workshop/3rd/) , *3rd AII workshop, New Taipei, Taiwan, July 2019*
 - [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) , *CVPR, CA, USA, June 2019*
 - [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation]() , *Yahoo! Inc., Taipei, Taiwan, May 2019*
+
+[Back](#about-me)
 -->
 
 # Projects
