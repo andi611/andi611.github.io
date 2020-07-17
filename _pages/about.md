@@ -70,7 +70,7 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 # Experience
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Machine Learning Special Project</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, 2018-Pres.</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Fall 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and Having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Fall 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655">IEEE/ACM TASLP</a></span> <span style="flex:  0 0 auto"><i>Journal, 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://2020.ieeeicassp.org/">IEEE SPS ICASSP 2020</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://interspeech2019.org/">ISCA INTERSPEECH 2019</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
@@ -90,7 +90,7 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 
 # Projects
 
-- The S3PRL Toolkit: Self-Supervised Speech Pre-training and Representation Learning [ [repo](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ![GitHub stars](https://img.shields.io/github/stars/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning?style=social&label=Star&maxAge=2592000) ]
+- The S3PRL Toolkit: Self-Supervised Speech Pre-training and Representation Learning [ [repo](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) | ![GitHub stars](https://img.shields.io/github/stars/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning?style=social&label=Star&maxAge=2592000) ]
 - Voice Conversion System with ZeroSpeech Challenge [ [repo](https://github.com/andi611/ZeroSpeech-TTS-without-T) ]
 - English TTS System with Tacotron [ [repo](https://github.com/andi611/TTS-Tacotron-Pytorch) ]
 - Code-Switch TTS System with Tacotron[ [repo](https://github.com/andi611/CS-Tacotron-Pytorch) ]
