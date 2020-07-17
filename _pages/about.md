@@ -90,7 +90,7 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 
 # Projects
 
-- The S3PRL Toolkit: Self-Supervised Speech Pre-training and Representation Learning [ [repo](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) | ![GitHub stars](https://img.shields.io/github/stars/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning?style=social&label=Star&maxAge=2592000) ]
+- The S3PRL Toolkit: Self-Supervised Speech Pre-training and Representation Learning [ [repo](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ![GitHub stars](https://img.shields.io/github/stars/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning?style=social&label=Star&maxAge=2592000) ]
 - Voice Conversion System with ZeroSpeech Challenge [ [repo](https://github.com/andi611/ZeroSpeech-TTS-without-T) ]
 - English TTS System with Tacotron [ [repo](https://github.com/andi611/TTS-Tacotron-Pytorch) ]
 - Code-Switch TTS System with Tacotron[ [repo](https://github.com/andi611/CS-Tacotron-Pytorch) ]
