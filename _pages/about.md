@@ -22,6 +22,7 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 - [Honors](#honors)
 - [Experience](#experience)
 - [Projects](#projects)
+- [A Little More About Me](#a-little-more-about-me)
 
 # Publications
 
@@ -94,5 +95,15 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 - English TTS System with Tacotron [ [repo](https://github.com/andi611/TTS-Tacotron-Pytorch) ]
 - Code-Switch TTS System with Tacotron[ [repo](https://github.com/andi611/CS-Tacotron-Pytorch) ]
 - Chatbot System with Sequence GAN [ [repo](https://github.com/andi611/Conditional-SeqGAN-Tensorflow) ]
+
+[Back](#about-me)
+
+# A Little More About Me
+Alongside my interests in machine learning and speech processing, some of my other interests and hobbies are:
+- Biking
+- Swimming
+- Scuba diving
+- Fitness training
+- I also have a [pet gecko](https://www.instagram.com/ah_mu_mu/)
 
 [Back](#about-me)
