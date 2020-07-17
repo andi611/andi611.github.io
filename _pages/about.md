@@ -61,7 +61,7 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">ASUS AICS PhD Scholarship</span> <span style="flex:  0 0 auto"><i>ASUS 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Outstanding Students Conference Grant</span> <span style="flex:  0 0 auto"><i>FAOS, Taiwan 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Outstanding Students Conference Travel Grant</span> <span style="flex:  0 0 auto"><i>FAOS, Taiwan 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Undergraduate Innovation Award</span> <span style="flex:  0 0 auto"><i>NTU EE 2017</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Lotus Award</span> <span style="flex:  0 0 auto"><i>Government, Macau 2014</i></span></p>
 
