@@ -20,6 +20,7 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 - [Publications](#publications)
 - [Honors](#honors)
 - [Experience](#experience)
+- [Talks](#talks)
 - [Projects](#projects)
 - [A Little More About Me](#a-little-more-about-me)
 
@@ -79,14 +80,13 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 
 [Back](#about-me)
 
-<!---
 # Talks
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](http://aliensunmin.github.io/aii_workshop/3rd/) , *3rd AII workshop, New Taipei, Taiwan, July 2019*
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) , *CVPR, CA, USA, June 2019*
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation]() , *Yahoo! Inc., Taipei, Taiwan, May 2019*
+- [Self-Supervised Learning for Speech](files/20200514_asus_aics_SSL_for_speech.pdf), *ASUS Inc., Taipei, Taiwan, May 2020*
+- [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](files/20200507_icassp_Mockingjay.pdf), *ICASSP, Virtual, Online, May 2020*
+- [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](files/20200207_NTU_foreign_guest.pdf), *NTU, Taipei, Taiwan, February 2020*
+- [Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion](files/20190917_interspeech_zerospeech.pdf), *Interspeech, Graz, Austria, September 2019*
 
 [Back](#about-me)
--->
 
 # Projects
 
