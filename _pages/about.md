@@ -102,7 +102,7 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 Alongside my interests in machine learning and speech processing, some of my other interests and hobbies are:
 - Biking
 - Swimming
-- Scuba diving
+- Scuba diving (PADI OW)
 - Fitness training
 - I also have a [pet gecko](https://www.instagram.com/ah_mu_mu/)
 
