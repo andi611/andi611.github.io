@@ -43,17 +43,17 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 
 - **Understanding Self-Attention of Self-Supervised Audio Transformers**<br/>
     Shu-wen Yang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
-    *Submitted to INTERSPEECH 2020, under review*<br/>
+    *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
     [ [arxiv](https://arxiv.org/abs/2006.03265) | [demo](https://github.com/leo19941227/Self-Attention-on-SATs) ]
 
 - **Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning**<br/>
     Haibin Wu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
-    *Submitted to INTERSPEECH 2020, under review*<br/>
+    *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
     [ [arxiv](https://arxiv.org/abs/2006.03214) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
 
 - **Towards Robust Neural Vocoding for Speech Generation: A Survey**<br/>
     Po-chun Hsu, Chun-hsuan Wang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
-    *Submitted to INTERSPEECH 2020, under review*<br/>
+    *arXiv, Cornell University*<br/>
     [ [arxiv](https://arxiv.org/abs/1912.02461) | [demo](https://bogihsu.github.io/Robust-Neural-Vocoding/) ]
 
 [Back](#about-me)
