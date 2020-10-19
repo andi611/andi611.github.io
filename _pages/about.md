@@ -10,8 +10,8 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Andy Ting-Wei(廷緯) Liu, I recieved my B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
-I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU).
+Hi! I'm Andy T. Liu (劉廷緯), I recieved my B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
+I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) from NTU.
 I mainly work on self-supervised and unsupervised algorithms of speech, including speech pre-training, representation learning, and voice conversion.
 I am a member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [PhD program](https://aics.asus.com/studentprograms/).
@@ -60,11 +60,11 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 
 # Honors
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">ASUS AICS PhD Scholarship</span> <span style="flex:  0 0 auto"><i>ASUS 2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Outstanding Students Conference Travel Grant</span> <span style="flex:  0 0 auto"><i>FAOS, Taiwan 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Undergraduate Innovation Award</span> <span style="flex:  0 0 auto"><i>NTU EE 2017</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Lotus Award</span> <span style="flex:  0 0 auto"><i>Government, Macau 2014</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">ASUS AICS PhD Scholarship (華碩AI研發中心博士生學位計畫)</span> <span style="flex:  0 0 auto"><i>2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU Frontier Speech Technology Scholarship (國立臺灣大學前瞻語音科技獎學金)</span> <span style="flex:  0 0 auto"><i>2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">FAOS Outstanding Students Conference Travel Grant (傑出人才優秀學生出國開會補助)</span> <span style="flex:  0 0 auto"><i>2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU Electrical Engineering Undergraduate Innovation Award (國立臺灣大學電機系大學部精專獎)</span> <span style="flex:  0 0 auto"><i>2017</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Macau Government Lotus Award (澳門政府蓮花獎)</span> <span style="flex:  0 0 auto"><i>2014</i></span></p>
 
 [Back](#about-me)
 
@@ -72,10 +72,13 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Machine Learning Special Project</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, 2018-Pres.</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and Having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Fall 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Reviewer of <a href="https://neurips-sas-2020.github.io/">NeurIPS SAS 2020</a></span> <span style="flex:  0 0 auto"><i>Workshop, 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655">IEEE/ACM TASLP</a></span> <span style="flex:  0 0 auto"><i>Journal, 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="http://www.iscslp2021.org/">ISCSLP 2020</a></span> <span style="flex:  0 0 auto"><i>Conference, 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://aaai.org/Conferences/AAAI-20/">AAAI 2020</a></span> <span style="flex:  0 0 auto"><i>Conference, 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://2020.ieeeicassp.org/">IEEE SPS ICASSP 2020</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://interspeech2019.org/">ISCA INTERSPEECH 2019</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=87194&copyownerid=13881">ACMSE 2019</a></span> <span style="flex:  0 0 auto"><i>Conference, 2019</i></span></p>
 
 [Back](#about-me)
