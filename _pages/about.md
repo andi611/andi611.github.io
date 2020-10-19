@@ -29,32 +29,32 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 - **Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders**<br/>
     <u>Andy T. Liu</u>, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee<br/>
     *Lecture session in ICASSP 2020, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
-    [ [arxiv](https://arxiv.org/abs/1910.12638) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) | [slide](https://bit.ly/icassp2020-mockingjay) | [oral](https://youtu.be/THylmb3hZVs) ]
+    [ [arxiv](https://arxiv.org/abs/1910.12638) | [pdf](https://arxiv.org/pdf/1910.12638) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) | [slide](https://bit.ly/icassp2020-mockingjay) | [oral](https://youtu.be/THylmb3hZVs) ]
 
 - **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**<br/>
     <u>Andy T. Liu</u>, Po-chun Hsu, Hung-yi Lee<br/>
     *Oral session in INTERSPEECH 2019, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [arxiv](https://arxiv.org/abs/1905.11563) | [code](https://github.com/andi611/ZeroSpeech-TTS-without-T) | [slide](http://bit.ly/20190917_interspeech_talk) ]
+    [ [arxiv](https://arxiv.org/abs/1905.11563) | [pdf](https://arxiv.org/pdf/1905.11563) | [code](https://github.com/andi611/ZeroSpeech-TTS-without-T) | [slide](http://bit.ly/20190917_interspeech_talk) ]
 
 - **TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech**<br/>
     <u>Andy T. Liu</u>, Shang-Wen Li, Hung-yi Lee<br/>
     *Submitted to IEEE/ACM TASLP (Transactions on Audio, Speech, and Language Processing)*<br/>
-    [ [arxiv](https://arxiv.org/abs/2007.06028) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
+    [ [arxiv](https://arxiv.org/abs/2007.06028) | [pdf](https://arxiv.org/pdf/2007.06028) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
 
 - **Understanding Self-Attention of Self-Supervised Audio Transformers**<br/>
     Shu-wen Yang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [arxiv](https://arxiv.org/abs/2006.03265) | [demo](https://github.com/leo19941227/Self-Attention-on-SATs) ]
+    [ [arxiv](https://arxiv.org/abs/2006.03265) | [pdf](https://arxiv.org/pdf/2006.03265) | [demo](https://github.com/leo19941227/Self-Attention-on-SATs) ]
 
 - **Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning**<br/>
     Haibin Wu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [arxiv](https://arxiv.org/abs/2006.03214) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
+    [ [arxiv](https://arxiv.org/abs/2006.03214) | [pdf](https://arxiv.org/pdf/2006.03214) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
 
 - **Towards Robust Neural Vocoding for Speech Generation: A Survey**<br/>
     Po-chun Hsu, Chun-hsuan Wang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *arXiv, Cornell University*<br/>
-    [ [arxiv](https://arxiv.org/abs/1912.02461) | [demo](https://bogihsu.github.io/Robust-Neural-Vocoding/) ]
+    [ [arxiv](https://arxiv.org/abs/1912.02461) | [pdf](https://arxiv.org/pdf/1912.02461) | [demo](https://bogihsu.github.io/Robust-Neural-Vocoding/) ]
 
 [Back](#about-me)
 
@@ -94,10 +94,10 @@ I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [P
 # Projects
 
 - The S3PRL Toolkit: Self-Supervised Speech Pre-training and Representation Learning [ [repo](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ![GitHub stars](https://img.shields.io/github/stars/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning?style=social&label=Star&maxAge=2592000) ]
-- Voice Conversion System with ZeroSpeech Challenge [ [repo](https://github.com/andi611/ZeroSpeech-TTS-without-T) ]
-- English TTS System with Tacotron [ [repo](https://github.com/andi611/TTS-Tacotron-Pytorch) ]
-- Code-Switch TTS System with Tacotron[ [repo](https://github.com/andi611/CS-Tacotron-Pytorch) ]
-- Chatbot System with Sequence GAN [ [repo](https://github.com/andi611/Conditional-SeqGAN-Tensorflow) ]
+- ZeroSpeech TTS-without-T Challenge [ [repo](https://github.com/andi611/ZeroSpeech-TTS-without-T) ]
+- Tacotron English TTS [ [repo](https://github.com/andi611/TTS-Tacotron-Pytorch) ]
+- Tacotron Code-Switch TTS [ [repo](https://github.com/andi611/CS-Tacotron-Pytorch) ]
+- Sequence GAN Chatbot [ [repo](https://github.com/andi611/Conditional-SeqGAN-Tensorflow) ]
 
 [Back](#about-me)
 
