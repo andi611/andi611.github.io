@@ -24,6 +24,8 @@ redirect_from:
 - a member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 - a member of the [ASUS AICS](https://aics.asus.com/) team, under the [PhD program](https://aics.asus.com/studentprograms/).
 
+[Back](#about-me)
+
 # Publications
 
 - **Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders**<br/>
