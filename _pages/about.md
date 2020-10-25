@@ -9,12 +9,11 @@ redirect_from:
 ---
 
 # About Me
-
-Hi! I'm Andy T. Liu (劉廷緯), I recieved my B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
-I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) from NTU.
-I mainly work on self-supervised and unsupervised algorithms of speech, including speech pre-training, representation learning, and voice conversion.
-I am a member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
-I am also a member of the [ASUS AICS](https://aics.asus.com/) team, under the [PhD program](https://aics.asus.com/studentprograms/).
+Hi! I'm Andy T. Liu (劉廷緯), I mainly work on self-supervised and unsupervised algorithms of speech, including speech pre-training, representation learning, and voice conversion.
+- recieved B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
+- currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) from NTU since 2018.
+- a member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
+- a member of the [ASUS AICS](https://aics.asus.com/) team, under the [PhD program](https://aics.asus.com/studentprograms/).
 
 # Table of Contents
 - [Publications](#publications)
