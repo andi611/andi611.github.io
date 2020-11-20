@@ -52,7 +52,12 @@ redirect_from:
     Haibin Wu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
     [ [arxiv](https://arxiv.org/abs/2006.03214) | [pdf](https://arxiv.org/pdf/2006.03214) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
-
+    
+- **Adversarial Defense for Automatic Speaker Verification by Cascaded Self-Supervised Learning Models**<br/>
+    Haibin Wu, Xu Li, <u>Andy T. Liu</u>, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
+    *Submitted to ICASSP 2021, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
+    [ [arxiv]() | [pdf]() | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
+    
 - **Towards Robust Neural Vocoding for Speech Generation: A Survey**<br/>
     Po-chun Hsu, Chun-hsuan Wang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *arXiv, Cornell University*<br/>
@@ -86,6 +91,7 @@ redirect_from:
 [Back](#about-me)
 
 # Talks
+- [Audio BERT](https://youtu.be/NN9Q9Jhtvvg), *Deep Learning for Human Language Processing Course, NTUEE, Taipei, Taiwan, June 2020*
 - [Self-Supervised Learning for Speech](files/20200514_asus_aics_SSL_for_speech.pdf), *ASUS Inc., Taipei, Taiwan, May 2020*
 - [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](files/20200507_icassp_Mockingjay.pdf), *ICASSP, Virtual, Online, May 2020*
 - [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](files/20200207_NTU_foreign_guest.pdf), *NTU, Taipei, Taiwan, February 2020*
