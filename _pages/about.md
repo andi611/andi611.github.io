@@ -66,11 +66,11 @@ redirect_from:
 [Back](#about-me)
 
 # Honors
-
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Merry Electro-Acoustic Thesis Award - 1st Place (美律電聲論文獎 - 金質獎)</span> <span style="flex:  0 0 auto"><i>2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">ASUS AICS PhD Scholarship (華碩AI研發中心博士生學位計畫)</span> <span style="flex:  0 0 auto"><i>2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU Frontier Speech Technology Scholarship (國立臺灣大學前瞻語音科技獎學金)</span> <span style="flex:  0 0 auto"><i>2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">FAOS Outstanding Students Conference Travel Grant (傑出人才優秀學生出國開會補助)</span> <span style="flex:  0 0 auto"><i>2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU Electrical Engineering Undergraduate Innovation Award (國立臺灣大學電機系大學部精專獎)</span> <span style="flex:  0 0 auto"><i>2017</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU Electrical Engineering Undergraduate Innovation Award - 2nd place (國立臺灣大學電機系大學部精專獎 - 貳獎)</span> <span style="flex:  0 0 auto"><i>2017</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Macau Government Lotus Award (澳門政府蓮花獎)</span> <span style="flex:  0 0 auto"><i>2014</i></span></p>
 
 [Back](#about-me)
