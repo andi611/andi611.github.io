@@ -22,7 +22,7 @@ redirect_from:
 - recieved B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
 - currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) from NTU since 2018.
 - a member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
-- a member of the "[S3PRL](https://github.com/s3prl/s3prl)" team, working to develop a powerful speech toolkit.
+- a member of the [S3PRL](https://github.com/s3prl/s3prl) team, working to develop a powerful speech toolkit.
 - a member of the [AICS](https://aics.asus.com/) team, under the [PhD student program](https://aics.asus.com/studentprograms/).
 
 [Back](#about-me)
@@ -102,7 +102,7 @@ redirect_from:
 
 # Projects
 
-- The S3PRL Toolkit: Self-Supervised Speech Pre-training and Representation Learning [ [repo](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ![GitHub stars](https://img.shields.io/github/stars/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning?style=social&label=Star&maxAge=2592000) ]
+- The S3PRL Toolkit: Self-Supervised Speech Pre-training and Representation Learning [ [repo](https://github.com/s3prl/s3prl) ![GitHub stars](https://img.shields.io/github/stars/s3prl/s3prl?style=social&label=Star&maxAge=2592000) ]
 - ZeroSpeech TTS-without-T Challenge [ [repo](https://github.com/andi611/ZeroSpeech-TTS-without-T) ]
 - Tacotron English TTS [ [repo](https://github.com/andi611/TTS-Tacotron-Pytorch) ]
 - Tacotron Code-Switch TTS [ [repo](https://github.com/andi611/CS-Tacotron-Pytorch) ]
