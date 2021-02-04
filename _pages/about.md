@@ -18,12 +18,11 @@ redirect_from:
 - [A Little More About Me](#a-little-more-about-me)
 
 # About Me
-- Hi! I'm Andy T. Liu (劉廷緯), I mainly work on self-supervised and unsupervised algorithms of speech, including speech pre-training, representation learning, and voice conversion.
-- recieved B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
-- currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) from NTU since 2018.
-- a member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
-- a member of the [S3PRL](https://github.com/s3prl/s3prl) team, working to develop a powerful speech toolkit.
-- a member of the [AICS](https://aics.asus.com/) team, under the [PhD student program](https://aics.asus.com/studentprograms/).
+- Hi! I'm Andy T. Liu (劉廷緯), I mainly work on speech, including self-supervised learning (SSL), pre-training, representation learning, automatic speech recognition (ASR), text-to-speech (TTS), and voice conversion (VC).
+- I recieved B.S. degrees in Electrical Engineering (EE) from National Taiwan University (NTU) at 2018.
+- I'm currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) of NTU since 2018.
+- I'm a member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
+- I'm also a member of the [S3PRL](https://github.com/s3prl/s3prl) project team, working to develop a powerful self-supervised toolkit for speech.
 
 [Back](#about-me)
 
