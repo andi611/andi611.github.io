@@ -31,7 +31,7 @@ redirect_from:
 - **Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders**<br/>
     <u>Andy T. Liu</u>, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee<br/>
     *Lecture session in ICASSP 2020, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
-    [ [arxiv](https://arxiv.org/abs/1910.12638) | [pdf](https://arxiv.org/pdf/1910.12638) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) | [slide](https://bit.ly/icassp2020-mockingjay) | [oral](https://youtu.be/THylmb3hZVs) ]
+    [ [arxiv](https://arxiv.org/abs/1910.12638) | [pdf](https://arxiv.org/pdf/1910.12638) | [code](https://github.com/andi611/Mockingjay-Speech-Representation) | [slide](https://bit.ly/icassp2020-mockingjay) | [oral](https://youtu.be/THylmb3hZVs) ]
 
 - **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**<br/>
     <u>Andy T. Liu</u>, Po-chun Hsu, Hung-yi Lee<br/>
@@ -41,7 +41,12 @@ redirect_from:
 - **TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech**<br/>
     <u>Andy T. Liu</u>, Shang-Wen Li, Hung-yi Lee<br/>
     *Submitted to IEEE/ACM TASLP (Transactions on Audio, Speech, and Language Processing)*<br/>
-    [ [arxiv](https://arxiv.org/abs/2007.06028) | [pdf](https://arxiv.org/pdf/2007.06028) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
+    [ [arxiv](https://arxiv.org/abs/2007.06028) | [pdf](https://arxiv.org/pdf/2007.06028) | [code](https://github.com/s3prl/s3prl) ]
+    
+- **SUPERB: Speech processing Universal PERformance Benchmark**<br/>
+    Shu-wen Yang, <u>Andy T Liu</u>, Po-Han Chi, Yung-Sung Chuang, Cheng-I Jeff Lai, Kushal Lakhotia, Yist Y Lin, Jiatong Shi, Xuankai Chang, Guan-Ting Lin, Tzu-Hsien Huang, Wei-Cheng Tseng, Ko-tik Lee, Da-Rong Liu, Zili Huang, Shuyan Dong, Shang-Wen Li, Shinji Watanabe, Abdelrahman Mohamed, Hung-yi Lee<br/>
+    *Accepted in INTERSPEECH 2021, conference organized by the International Speech Communication Association (ISCA)*<br/>
+    [ [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Understanding Self-Attention of Self-Supervised Audio Transformers**<br/>
     Shu-wen Yang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
@@ -51,12 +56,12 @@ redirect_from:
 - **Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning**<br/>
     Haibin Wu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [arxiv](https://arxiv.org/abs/2006.03214) | [pdf](https://arxiv.org/pdf/2006.03214) | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
+    [ [arxiv](https://arxiv.org/abs/2006.03214) | [pdf](https://arxiv.org/pdf/2006.03214) | [code](https://github.com/s3prl/s3prl) ]
     
 - **Adversarial Defense for Automatic Speaker Verification by Cascaded Self-Supervised Learning Models**<br/>
     Haibin Wu, Xu Li, <u>Andy T. Liu</u>, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
-    *Submitted to ICASSP 2021, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
-    [ [arxiv]() | [pdf]() | [code](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning) ]
+    *Virtual session in ICASSP 2021, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
+    [ [arxiv](https://arxiv.org/abs/2102.07047) | [pdf](https://arxiv.org/pdf/2102.07047.pdf) | [code](https://github.com/s3prl/s3prl) ]
     
 - **Towards Robust Neural Vocoding for Speech Generation: A Survey**<br/>
     Po-chun Hsu, Chun-hsuan Wang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
