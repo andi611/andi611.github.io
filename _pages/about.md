@@ -18,13 +18,9 @@ redirect_from:
 - [A Little More About Me](#a-little-more-about-me)
 
 # About Me
-- Hi! I'm Andy T. Liu (劉廷緯), I mainly work in the speech domain, focusing on self-supervised learning (SSL), pre-training, representation learning, automatic speech recognition (ASR), text-to-speech (TTS), and voice conversion (VC).
-- 2014 - 2018: Recieved degree of Bachelor of Science in Electrical Engineering (EE) from National Taiwan University (NTU).
-- 2018 - now: Pursuing a Ph.D. degree at the Graduate Institute of Communication Engineering (GICE) of NTU.
-- 2020: PhD Intern with [ASUS AICS](https://aics.asus.com/).
-- 2021: Applied Science Intern with [Amazon AWS](https://aws.amazon.com/).
-- A member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
-- A member of the [S3PRL](https://github.com/s3prl/s3prl) project development team, working to build a powerful self-supervised toolkit for speech.
+- Hi! my name is Andy T. Liu (劉廷緯). I grew up in Taipei, Taiwan where I recieved my degree of Bachelor of Science in Electrical Engineering from National Taiwan University (NTU). Currently, I am a 3rd year Ph.D. student at NTU where I focus on researching self-supervised learning (SSL), pre-training, and representation learning in the speech and NLP domain. I'm a member of the “Speech Processing and Machine Learning Laboratory”, working with with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm). 
+- My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl), which provides an easy-to-use self-supervised toolkit, with unified interface for all kinds of self-supervised models and various downstream tasks.
+- Write me if you are looking for a collaboration!
 
 [Back](#about-me)
 
@@ -83,7 +79,8 @@ redirect_from:
 [Back](#about-me)
 
 # Experience
-
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Applied Scientist Intern at <a href="https://aws.amazon.com/">Amazon AWS</a></span> <span style="flex:  0 0 auto"><i>Remote, 2021.</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Ph.D. Intern at <a href="https://aics.asus.com/">ASUS AICS</a></span> <span style="flex:  0 0 auto"><i>Taipei, 2020-2021.</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Machine Learning Special Project</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, 2018-Pres.</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and Having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Fall 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Reviewer of <a href="https://neurips-sas-2020.github.io/">NeurIPS SAS 2020</a></span> <span style="flex:  0 0 auto"><i>Workshop, 2020</i></span></p>
