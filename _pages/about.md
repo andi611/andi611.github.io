@@ -18,7 +18,7 @@ redirect_from:
 - [A Little More About Me](#a-little-more-about-me)
 
 # About Me
-- Hi! my name is Andy T. Liu (劉廷緯). I grew up in Taipei, Taiwan where I recieved my degree of Bachelor of Science in Electrical Engineering from National Taiwan University (NTU). Currently, I am a 3rd year Ph.D. student at NTU where I focus on researching self-supervised learning (SSL), pre-training, and representation learning in the speech and NLP domain. I'm a member of the “Speech Processing and Machine Learning Laboratory”, working with with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm). 
+- Hi! my name is Andy T. Liu (劉廷緯). I recieved my degree of Bachelor of Science in Electrical Engineering (EE) from National Taiwan University (NTU), Taipei, Taiwan, in 2018. Currently, I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at NTU. My research focuses on self-supervised learning (SSL), pre-training, and representation learning in the speech and NLP domain. I'm a member of the “Speech Processing and Machine Learning Laboratory”, working with with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm). 
 - My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl), which provides an easy-to-use self-supervised toolkit, with unified interface for all kinds of self-supervised models and various downstream tasks.
 - Write me if you are looking for a collaboration!
 
@@ -38,12 +38,12 @@ redirect_from:
 
 - **TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech**<br/>
     <u>Andy T. Liu</u>, Shang-Wen Li, Hung-yi Lee<br/>
-    *Submitted to IEEE/ACM TASLP (Transactions on Audio, Speech, and Language Processing)*<br/>
+    *Accepted by IEEE/ACM TASLP (Transactions on Audio, Speech, and Language Processing)*<br/>
     [ [arxiv](https://arxiv.org/abs/2007.06028) | [pdf](https://arxiv.org/pdf/2007.06028) | [code](https://github.com/s3prl/s3prl) ]
     
 - **SUPERB: Speech processing Universal PERformance Benchmark**<br/>
     Shu-wen Yang, <u>Andy T Liu</u>, Po-Han Chi, Yung-Sung Chuang, Cheng-I Jeff Lai, Kushal Lakhotia, Yist Y Lin, Jiatong Shi, Xuankai Chang, Guan-Ting Lin, Tzu-Hsien Huang, Wei-Cheng Tseng, Ko-tik Lee, Da-Rong Liu, Zili Huang, Shuyan Dong, Shang-Wen Li, Shinji Watanabe, Abdelrahman Mohamed, Hung-yi Lee<br/>
-    *Accepted in INTERSPEECH 2021, conference organized by the International Speech Communication Association (ISCA)*<br/>
+    *Accepted by INTERSPEECH 2021, conference organized by the International Speech Communication Association (ISCA)*<br/>
     [ [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Understanding Self-Attention of Self-Supervised Audio Transformers**<br/>
@@ -119,6 +119,6 @@ Alongside my interests in machine learning and speech processing, some of my oth
 - Swimming
 - Scuba diving (PADI OW)
 - Fitness training
-- I also have a [pet gecko](https://www.instagram.com/ah_mu_mu/)
+- I also have several pet geckos: [Instagram@cute._.geckos](https://www.instagram.com/cute._.geckos/)
 
 [Back](#about-me)
