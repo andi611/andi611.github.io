@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Ph.D. student<br/>at National Taiwan University (NTU)"
   location         : "Taipei, Taiwan"
-  employer         :
+  employer         : "Amazon Web Services"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3FpZleMAAAAJ&hl=en"
-  email            :
+  email            : "tingweiandyliu@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Andy_Liu63"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "andi611"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/andy.t.liu/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/andy-t-liu-059a22137/"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/id/andy-t-liu/"
   tumblr           :
   twitter          : # ToDo : "replacethistwitterhandle"
   vine             :
