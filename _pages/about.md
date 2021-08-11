@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Visit my new website: **www.andytliu.com**](https://www.andytliu.com/)
+Visit my new website: [**www.andytliu.com**](https://www.andytliu.com/)
 
 # Table of Content
 - [About Me](#about-me)
