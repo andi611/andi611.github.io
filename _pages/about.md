@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+[Visit my new website: **www.andytliu.com**](https://www.andytliu.com/)
+
 # Table of Content
-- **[Visit my new website: www.andytliu.com](https://www.andytliu.com/)**
 - [About Me](#about-me)
 - [Publication](#publication)
 - [Experience](#experience)
@@ -17,7 +18,6 @@ redirect_from:
 - [Talk](#talk)
 - [Project](#project)
 - [During my spare time](#during-my-spare-time)
-- [Contact](#contact)
 
 # About Me
 My name is Andy T. Liu. I received my bachelor's degree in [Electrical Engineering (EE)](https://web.ee.ntu.edu.tw/eng/index.php) from National Taiwan University (NTU), Taipei, Taiwan, in 2018. I am currently working towards a Ph.D. degree with the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html), NTU, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/).  I’m a member of the “Speech Processing and Machine Learning Laboratory” at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
