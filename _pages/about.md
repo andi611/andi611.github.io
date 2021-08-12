@@ -141,8 +141,8 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 # During my spare time
 - Scuba Diving ([PADI](https://www.padi.com/courses/open-water-diver?lang=en)), Jul. 2020 - Present
 - Guitar, Amateur, Oct. 2016 - Jan. 2020
-- Road Biking, [NTU Cycling Club](https://www.facebook.com/ntucyc), Jun. 2014 - Aug. 2017
-- I also have several pet geckos: [Instagram@smiling._.dragons](https://www.instagram.com/smiling._.dragons/)
+- Road Biking, ([NTU Cycling Club](https://www.facebook.com/ntucyc)), Jun. 2014 - Aug. 2017
+- I also have several pet geckos: [Instagram](https://www.instagram.com/smiling._.dragons/)
 
 [Back](#table-of-content)
 
