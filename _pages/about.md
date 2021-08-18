@@ -24,9 +24,9 @@ My name is Andy T. Liu. I received my bachelor's degree in [Electrical Engineeri
 
 My research interests include self-supervised learning, pre-training, and representation learning in the speech and NLP domain.  
 
-My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl), which provides an easy-to-use self-supervised toolkit, with unified interface for all kinds of self-supervised models and various downstream tasks.
+My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl), which provides an easy-to-use self-supervised toolkit, with a unified interface for all kinds of self-supervised models and various downstream tasks.
 
-**I have launched a new website. Please visit my new website for latest information: [www.andytliu.com](https://www.andytliu.com/)**
+**I have launched a new website. Please visit my new website for the latest information: [www.andytliu.com](https://www.andytliu.com/)**
 
 [Back](#table-of-content)
 
