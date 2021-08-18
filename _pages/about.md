@@ -119,6 +119,7 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 [Back](#table-of-content)
 
 # Talk
+- [Introducing the S3PRL Toolkit](https://youtu.be/PkMFnS6cjAc), *Tutorial, YouTube, Taipei, Taiwan, Aug 2021*
 - [Audio BERT](https://youtu.be/NN9Q9Jhtvvg), *Deep Learning for Human Language Processing Course, NTUEE, Taipei, Taiwan, June 2020*
 - [Self-Supervised Learning for Speech](files/20200514_asus_aics_SSL_for_speech.pdf), *ASUS Inc., Taipei, Taiwan, May 2020*
 - [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](files/20200507_icassp_Mockingjay.pdf), *ICASSP, Virtual, Online, May 2020*
