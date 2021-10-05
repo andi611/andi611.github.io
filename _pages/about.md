@@ -79,12 +79,12 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 ## Intern Experience
 - **Applied Scientist Intern**<br/>
     [Amazon Web Services (AWS)](https://aws.amazon.com/)<br/>
-    *During this internship, I worked on Question Answering (QA), Named Entity Recognition (NER), prompt-based fine-tuning in the NLP domain, and self-supervised learning (SSL) with speaker identification in the speech domain.*<br/>
+    *During this internship, I worked on Few-shot Learning, Prompt-based Learning, Question Answering (QA), and Named Entity Recognition (NER) in the NLP domain.*<br/>
     Remote, Jun. 2021 - Oct. 2021.
 
 - **Ph.D. Researcher Intern**<br/>
     [ASUS Intelligent Cloud Services (AICS)](https://aics.asus.com/)<br/>
-    *During this internship, I worked on unsupervised graph representation learning, particularly in the medical domain. I had the privilege of working with Professor [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/), and Professor [Victor Tsai](https://www.cs.nccu.edu.tw/~mftsai/).*<br/>
+    *During this internship, I worked on unsupervised graph representation learning, in the medical domain. I had the privilege of working with Professor [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/), and Professor [Victor Tsai](https://www.cs.nccu.edu.tw/~mftsai/).*<br/>
     Taipei, Sep. 2020 - Jun. 2021
 
 [Back](#table-of-content)
