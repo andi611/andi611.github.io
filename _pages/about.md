@@ -37,12 +37,12 @@ My research interests include **self-supervised learning**, **unsupervised learn
 - **SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities**<br/>
     Hsiang-Sheng Tsai, Heng-Jui Chang, Wen-Chin Huang, Zili Huang, Kushal Lakhotia, Shu-wen Yang, Shuyan Dong, <u>Andy T. Liu</u>, Cheng-I Jeff Lai, Jiatong Shi, Xuankai Chang, Phil Hall, Hsuan-Jui Chen, Shang-Wen Li, Shinji Watanabe, Abdelrahman Mohamed, Hung-yi Lee<br/>
     *Accepted by ACL 2022, conference organized by the Association for Computational Linguistics Association (ISCA)*<br/>
-    [ [acl-2022](https://aclanthology.org/2022.acl-long.580/) | [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
+    [ [acl](https://aclanthology.org/2022.acl-long.580/) | [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
     
 - **SUPERB: Speech processing Universal PERformance Benchmark**<br/>
     Shu-wen Yang, <u>Andy T Liu</u>, Po-Han Chi, Yung-Sung Chuang, Cheng-I Jeff Lai, Kushal Lakhotia, Yist Y Lin, Jiatong Shi, Xuankai Chang, Guan-Ting Lin, Tzu-Hsien Huang, Wei-Cheng Tseng, Ko-tik Lee, Da-Rong Liu, Zili Huang, Shuyan Dong, Shang-Wen Li, Shinji Watanabe, Abdelrahman Mohamed, Hung-yi Lee<br/>
     *Accepted by INTERSPEECH 2021, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [interspeech-2021](https://www.isca-speech.org/archive/interspeech_2021/yang21c_interspeech.html) | [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
+    [ [isca](https://www.isca-speech.org/archive/interspeech_2021/yang21c_interspeech.html) | [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Improving the Adversarial Robustness for Speaker Verification by Self-Supervised Learning**<br/>
     Haibin Wu, Xu Li, <u>Andy T. Liu</u>, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
@@ -67,12 +67,12 @@ My research interests include **self-supervised learning**, **unsupervised learn
 - **Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning**<br/>
     Haibin Wu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [isca](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2026.html) | [arxiv](https://arxiv.org/abs/2006.03214) | [pdf](https://arxiv.org/pdf/2006.03214) | [code](https://github.com/s3prl/s3prl) ]
+    [ [isca](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2026.pdf) | [arxiv](https://arxiv.org/abs/2006.03214) | [pdf](https://arxiv.org/pdf/2006.03214) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Understanding Self-Attention of Self-Supervised Audio Transformers**<br/>
     Shu-wen Yang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [isca](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2231.html) | [arxiv](https://arxiv.org/abs/2006.03265) | [pdf](https://arxiv.org/pdf/2006.03265) | [demo](https://github.com/leo19941227/Self-Attention-on-SATs) ]
+    [ [isca](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2231.pdf) | [arxiv](https://arxiv.org/abs/2006.03265) | [pdf](https://arxiv.org/pdf/2006.03265) | [demo](https://github.com/leo19941227/Self-Attention-on-SATs) ]
 
 - **Towards Robust Neural Vocoding for Speech Generation: A Survey**<br/>
     Po-chun Hsu, Chun-hsuan Wang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
