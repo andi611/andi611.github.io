@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Visit my new website: [**www.andytliu.com**](https://www.andytliu.com/)
-
 # Table of Content
 - [About Me](#about-me)
 - [Publication](#publication)
@@ -22,31 +20,49 @@ Visit my new website: [**www.andytliu.com**](https://www.andytliu.com/)
 # About Me
 My name is Andy T. Liu. I received my bachelor's degree in [Electrical Engineering (EE)](https://web.ee.ntu.edu.tw/eng/index.php) from National Taiwan University (NTU), Taipei, Taiwan, in 2018. I am currently working towards a Ph.D. degree with the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html), NTU, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/).  I’m a member of the “Speech Processing and Machine Learning Laboratory” at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 
-My research interests include **self-supervised learning**, **unsupervised learning**, and **few-shot learning** in the speech and NLP domain. 
+My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) in 2019 and kept developing ever since. Our S3PRL Toolkit provides an easy-to-use interface to the speech community, including all kinds of self-supervised models and downstream tasks.
 
-My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl), which provides an easy-to-use interface to the community, for all kinds of self-supervised models and various downstream tasks.
-
-**I have launched a new website. Please visit my new website for the latest information: [www.andytliu.com](https://www.andytliu.com/)**
+My research interests include **self-supervised learning**, **unsupervised learning**, and **few-shot learning** in the speech and NLP domain.
 
 [Back](#table-of-content)
 
 # Publication
 *Sorted by recency
 
+- **QaNER: Prompting question answering models for few-shot named entity recognition**<br/>
+    <u>Andy T. Liu</u>, Wei Xiao, Henghui Zhu, Dejiao Zhang, Shang-Wen Li, Andrew Arnold<br/>
+    *Work done while interning at Amazon AI. arXiv preprint, 2022, Cornell University*<br/>
+    [ [arxiv](https://arxiv.org/abs/2203.01543) | [pdf](https://arxiv.org/pdf/2203.01543.pdf) ]
+ 
+- **SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities**<br/>
+    Hsiang-Sheng Tsai, Heng-Jui Chang, Wen-Chin Huang, Zili Huang, Kushal Lakhotia, Shu-wen Yang, Shuyan Dong, <u>Andy T. Liu</u>, Cheng-I Jeff Lai, Jiatong Shi, Xuankai Chang, Phil Hall, Hsuan-Jui Chen, Shang-Wen Li, Shinji Watanabe, Abdelrahman Mohamed, Hung-yi Lee<br/>
+    *Accepted by ACL 2022, conference organized by the Association for Computational Linguistics Association (ISCA)*<br/>
+    [ [acl-2022](https://aclanthology.org/2022.acl-long.580/) | [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
+    
 - **SUPERB: Speech processing Universal PERformance Benchmark**<br/>
     Shu-wen Yang, <u>Andy T Liu</u>, Po-Han Chi, Yung-Sung Chuang, Cheng-I Jeff Lai, Kushal Lakhotia, Yist Y Lin, Jiatong Shi, Xuankai Chang, Guan-Ting Lin, Tzu-Hsien Huang, Wei-Cheng Tseng, Ko-tik Lee, Da-Rong Liu, Zili Huang, Shuyan Dong, Shang-Wen Li, Shinji Watanabe, Abdelrahman Mohamed, Hung-yi Lee<br/>
     *Accepted by INTERSPEECH 2021, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [to-be-presented-in-interspeech-2021](https://www.interspeech2021.org/) | [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
+    [ [interspeech-2021](https://www.isca-speech.org/archive/interspeech_2021/yang21c_interspeech.html) | [arxiv](https://arxiv.org/abs/2105.01051) | [pdf](https://arxiv.org/pdf/2105.01051.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
-- **Adversarial Defense for Automatic Speaker Verification by Cascaded Self-Supervised Learning Models**<br/>
+- **Improving the Adversarial Robustness for Speaker Verification by Self-Supervised Learning**<br/>
     Haibin Wu, Xu Li, <u>Andy T. Liu</u>, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
-    *Virtual session in ICASSP 2021, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
-    [ [ieee](https://ieeexplore.ieee.org/document/9413737) | [arxiv](https://arxiv.org/abs/2102.07047) | [pdf](https://arxiv.org/pdf/2102.07047.pdf) | [code](https://github.com/s3prl/s3prl) ]
+    *Published in IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 29, 2021 (TASLP)*<br/>
+    [ [ieee](https://ieeexplore.ieee.org/document/9645217) | [arxiv](https://arxiv.org/abs/2106.00273) | [pdf](https://arxiv.org/pdf/2106.00273.pdf) | [code](https://github.com/s3prl/s3prl) ]
+
+- **Don't Speak Too Fast: The Impact of Data Bias on Self-Supervised Speech Models**<br/>
+    Yen Meng, Yi-Hui Chou, <u>Andy T. Liu</u>, Hung-yi Lee
+    *Lecture session in ICASSP 2022, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
+    [ [ieee](https://ieeexplore.ieee.org/abstract/document/9747897) | [arxiv](https://arxiv.org/abs/2110.07957) | [pdf](https://arxiv.org/pdf/2110.07957.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
 - **TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech**<br/>
     <u>Andy T. Liu</u>, Shang-Wen Li, Hung-yi Lee<br/>
     *Published in IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 29, 2021 (TASLP)*<br/>
     [ [ieee](https://ieeexplore.ieee.org/document/9478264) | [arxiv](https://arxiv.org/abs/2007.06028) | [pdf](https://bit.ly/ieee-tera-pdf) | [code](https://github.com/s3prl/s3prl) ]
+
+- **Adversarial Defense for Automatic Speaker Verification by Cascaded Self-Supervised Learning Models**<br/>
+    Haibin Wu, Xu Li, <u>Andy T. Liu</u>, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
+    *Virtual session in ICASSP 2021, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
+    [ [ieee](https://ieeexplore.ieee.org/document/9413737) | [arxiv](https://arxiv.org/abs/2102.07047) | [pdf](https://arxiv.org/pdf/2102.07047.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning**<br/>
     Haibin Wu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
@@ -85,7 +101,7 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 - **Ph.D. Researcher Intern**<br/>
     [ASUS Intelligent Cloud Services (AICS)](https://aics.asus.com/)<br/>
     *During this internship, I worked on unsupervised graph representation learning, in the medical domain. I had the privilege of working with Professor [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/), and Professor [Victor Tsai](https://www.cs.nccu.edu.tw/~mftsai/).*<br/>
-    Taipei, Sep. 2020 - Jun. 2021
+    Taipei, Sep. 2020 - Jun. 2021 and Oct. 2021 - Pres.
 
 [Back](#table-of-content)
 
@@ -96,8 +112,12 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 [Back](#table-of-content)
 
 ## Peer Review Experience
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Reviewer of <a href="https://2021.emnlp.org/">EMNLP 2021</a></span> <span style="flex:  0 0 auto"><i>Conference, 2021</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Reviewer of <a href="https://neurips-sas-2020.github.io/">NeurIPS SAS Workshop 2020</a></span> <span style="flex:  0 0 auto"><i>Workshop, 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing">OJSP IEEE Signal Processing Society</a></span> <span style="flex:  0 0 auto"><i>Journal, 2022</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690">JSTSP IEEE Journal of Selected Topics in Signal Processing</a></span> <span style="flex:  0 0 auto"><i>Journal, 2022</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://2022.ieeeicassp.org/">ICASSP 2022</a></span> <span style="flex:  0 0 auto"><i>Conference, 2022</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="http://www.iscslp2022.org/">ISCSLP 2022</a></span> <span style="flex:  0 0 auto"><i>Conference, 2022</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://2021.emnlp.org/">EMNLP 2021</a></span> <span style="flex:  0 0 auto"><i>Conference, 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://neurips-sas-2020.github.io/">NeurIPS SAS Workshop 2020</a></span> <span style="flex:  0 0 auto"><i>Workshop, 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655">IEEE/ACM TASLP</a></span> <span style="flex:  0 0 auto"><i>Journal, 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="http://www.iscslp2021.org/">ISCSLP 2020</a></span> <span style="flex:  0 0 auto"><i>Conference, 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Secondary Review Helper of <a href="https://aaai.org/Conferences/AAAI-20/">AAAI 2020</a></span> <span style="flex:  0 0 auto"><i>Conference, 2020</i></span></p>
@@ -109,8 +129,8 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 [Back](#table-of-content)
 
 # Honor
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">ASUS AICS Ph.D. Scholarship (華碩AI研發中心博士生學位計畫)</span> <span style="flex:  0 0 auto"><i>Sep. 2020 - Jun. 2023</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Merry Electro-Acoustic Thesis Award - 1st Place (美律電聲論文獎 - 金質獎)</span> <span style="flex:  0 0 auto"><i>2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">ASUS AICS Ph.D. Scholarship (華碩AI研發中心博士生學位計畫)</span> <span style="flex:  0 0 auto"><i>Sep. 2020 - Jun. 2021</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU Frontier Speech Technology Scholarship (國立臺灣大學前瞻語音科技獎學金)</span> <span style="flex:  0 0 auto"><i>Oct. 2019 - Aug. 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">FAOS Outstanding Students Conference Travel Grant (傑出人才優秀學生出國開會補助)</span> <span style="flex:  0 0 auto"><i>2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU Electrical Engineering Innovation Award - 2nd place (國立臺灣大學電機系精專獎 - 貳獎)</span> <span style="flex:  0 0 auto"><i>2017</i></span></p>
@@ -148,6 +168,6 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 [Back](#table-of-content)
 
 # Contact
-[tingweiandyliu@gmail.com](mailto:tingweiandyliu@gmail.com)
+[liuandyt@gmail.com](mailto:liuandyt@gmail.com)
 
 Write me if you are looking for a collaboration!
