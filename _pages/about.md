@@ -28,6 +28,10 @@ My research interests include **self-supervised learning**, **unsupervised learn
 
 # Publication
 *Sorted by recency
+- **Parallel Synthesis for Autoregressive Speech Generation**<br/>
+    Po-chun Hsu, Da-rong Liu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
+    *Published in IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 31, 2023 (TASLP)*<br/>
+    [ [ieee](https://ieeexplore.ieee.org/abstract/document/10209552) | [arxiv](https://arxiv.org/abs/2204.11806) ]
 
 - **QaNER: Prompting question answering models for few-shot named entity recognition**<br/>
     <u>Andy T. Liu</u>, Wei Xiao, Henghui Zhu, Dejiao Zhang, Shang-Wen Li, Andrew Arnold<br/>
