@@ -113,7 +113,7 @@ My research interests include **self-supervised learning**, **unsupervised learn
     [ [ieee](https://ieeexplore.ieee.org/document/9645217) | [arxiv](https://arxiv.org/abs/2106.00273) | [pdf](https://arxiv.org/pdf/2106.00273.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Don't Speak Too Fast: The Impact of Data Bias on Self-Supervised Speech Models**<br/>
-    Yen Meng, Yi-Hui Chou, <u>Andy T. Liu</u>, Hung-yi Lee
+    Yen Meng, Yi-Hui Chou, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Lecture session in ICASSP 2022, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
     [ [ieee](https://ieeexplore.ieee.org/abstract/document/9747897) | [arxiv](https://arxiv.org/abs/2110.07957) | [pdf](https://arxiv.org/pdf/2110.07957.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
