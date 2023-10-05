@@ -46,7 +46,7 @@ My research interests include **self-supervised learning**, **unsupervised learn
 
 - **Improving the Adversarial Robustness for Speaker Verification by Self-Supervised Learning**<br/>
     Haibin Wu, Xu Li, <u>Andy T. Liu</u>, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
-    *Published in IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 29, 2021 (TASLP)*<br/>
+    *Published in IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 30, 2021 (TASLP)*<br/>
     [ [ieee](https://ieeexplore.ieee.org/document/9645217) | [arxiv](https://arxiv.org/abs/2106.00273) | [pdf](https://arxiv.org/pdf/2106.00273.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Don't Speak Too Fast: The Impact of Data Bias on Self-Supervised Speech Models**<br/>
