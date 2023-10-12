@@ -124,18 +124,18 @@ My research interests include **self-supervised learning**, **unsupervised learn
 
 - **Adversarial Defense for Automatic Speaker Verification by Cascaded Self-Supervised Learning Models**<br/>
     Haibin Wu, Xu Li, <u>Andy T. Liu</u>, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
-    *Virtual session in ICASSP 2021, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
+    *Virtual session in ICASSP 2021, a conference organized by the IEEE Signal Processing Society (SPS)*<br/>
     [ [ieee](https://ieeexplore.ieee.org/document/9413737) | [arxiv](https://arxiv.org/abs/2102.07047) | [pdf](https://arxiv.org/pdf/2102.07047.pdf) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning**<br/>
     Haibin Wu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
-    *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [isca](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2026.pdf) | [arxiv](https://arxiv.org/abs/2006.03214) | [pdf](https://arxiv.org/pdf/2006.03214) | [code](https://github.com/s3prl/s3prl) ]
+    *Virtual session in INTERSPEECH 2020, a conference organized by the International Speech Communication Association (ISCA)*<br/>
+    [ [isca](https://www.isca-speech.org/archive/interspeech_2020/wu20m_interspeech.html) | [arxiv](https://arxiv.org/abs/2006.03214) | [pdf](https://arxiv.org/pdf/2006.03214) | [code](https://github.com/s3prl/s3prl) ]
 
 - **Understanding Self-Attention of Self-Supervised Audio Transformers**<br/>
     Shu-wen Yang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
-    *Virtual session in INTERSPEECH 2020, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [isca](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2231.pdf) | [arxiv](https://arxiv.org/abs/2006.03265) | [pdf](https://arxiv.org/pdf/2006.03265) | [demo](https://github.com/leo19941227/Self-Attention-on-SATs) ]
+    *Virtual session in INTERSPEECH 2020, a conference organized by the International Speech Communication Association (ISCA)*<br/>
+    [ [isca](https://www.isca-speech.org/archive/interspeech_2020/yang20i_interspeech.html) | [arxiv](https://arxiv.org/abs/2006.03265) | [pdf](https://arxiv.org/pdf/2006.03265) | [demo](https://github.com/leo19941227/Self-Attention-on-SATs) ]
 
 - **Towards Robust Neural Vocoding for Speech Generation: A Survey**<br/>
     Po-chun Hsu, Chun-hsuan Wang, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
@@ -144,13 +144,13 @@ My research interests include **self-supervised learning**, **unsupervised learn
 
 - **Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders**<br/>
     <u>Andy T. Liu</u>, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee<br/>
-    *Lecture session in ICASSP 2020, conference organized by the IEEE Signal Processing Society (SPS)*<br/>
+    *Lecture session in ICASSP 2020, a conference organized by the IEEE Signal Processing Society (SPS)*<br/>
     [ [ieee](https://ieeexplore.ieee.org/document/9054458) | [arxiv](https://arxiv.org/abs/1910.12638) | [pdf](https://bit.ly/ieee-mockingjay-pdf) | [code](https://github.com/andi611/Mockingjay-Speech-Representation) | [slide](https://bit.ly/icassp2020-mockingjay) | [talk](https://youtu.be/THylmb3hZVs) ]
 
 - **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**<br/>
     <u>Andy T. Liu</u>, Po-chun Hsu, Hung-yi Lee<br/>
     *Oral session in INTERSPEECH 2019, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [isca](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2048.html) | [arxiv](https://arxiv.org/abs/1905.11563) | [pdf](https://arxiv.org/pdf/1905.11563) | [code](https://github.com/andi611/ZeroSpeech-TTS-without-T) | [slide](http://bit.ly/20190917_interspeech_talk) ]
+    [ [isca](https://www.isca-speech.org/archive/interspeech_2019/liu19c_interspeech.html) | [arxiv](https://arxiv.org/abs/1905.11563) | [pdf](https://arxiv.org/pdf/1905.11563) | [code](https://github.com/andi611/ZeroSpeech-TTS-without-T) | [slide](http://bit.ly/20190917_interspeech_talk) ]
 
 [Back](#table-of-content)
 
