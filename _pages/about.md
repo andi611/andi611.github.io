@@ -22,11 +22,11 @@ redirect_from:
 # About Me
 My name is Andy T. Liu. I received my bachelor's degree in [Electrical Engineering (EE)](https://web.ee.ntu.edu.tw/eng/index.php) from the National Taiwan University (NTU), Taipei, Taiwan, in 2018. I am currently working towards a Ph.D. degree with the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html), NTU, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/).  I’m a member of the “Speech Processing and Machine Learning Laboratory” at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 
-My scholarly impact is affirmed by over **1,390 citations and an h-index of 11 on Google Scholar**.
+My scholarly impact is affirmed by over **1,390 citations and an h-index of 11 on Google Scholar**. The IEEE Signal Processing Society has identified one of my publications “TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech” as \textbf{one of the top 25 downloaded articles} from Sept. 2021 - Sept. 2022 for IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) on IEEE Xplore®.
 
 My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) in 2019  – now celebrated with over **1,900 stars on GitHub** – and have kept developing ever since. Our S3PRL Toolkit provides an easy-to-use interface to the speech community, including self-supervised models and downstream tasks.
 
-My research interests include **self-supervised learning**, **unsupervised learning**, **few-shot learning** in the speech and NLP domain, ASR (automatic speech recognition), and TTS (text-to-speech).
+My research interest includes deep learning, self-supervised learning, foundation models for speech processing and NLP, ASR (automatic speech recognition), and TTS (text-to-speech).
 
 [Back](#table-of-content)
 
