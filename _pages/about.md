@@ -26,7 +26,7 @@ My scholarly impact is affirmed by over **1,390 citations and an h-index of 11 o
 
 My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) in 2019  – now celebrated with over **1,900 stars on GitHub** – and have kept developing ever since. Our S3PRL Toolkit provides an easy-to-use interface to the speech community, including self-supervised models and downstream tasks.
 
-My research interest includes deep learning, self-supervised learning, foundation models for speech processing and NLP, ASR (automatic speech recognition), and TTS (text-to-speech).
+My research interest includes **deep learning**, **self-supervised learning**, **foundation models** for speech processing and NLP, ASR (automatic speech recognition), and TTS (text-to-speech).
 
 [Back](#table-of-content)
 
