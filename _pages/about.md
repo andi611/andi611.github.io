@@ -27,7 +27,7 @@ I offer more than five years of dedicated experience in: **deep learning**, **se
 
 My scholarly impact is affirmed by [**over 1,500 citations and an h-index of 12 on Google Scholar**](https://scholar.google.com/citations?user=3FpZleMAAAAJ&hl=en). The IEEE Signal Processing Society has identified one of my publications, “TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech”, as one of the **top 25 downloaded articles** from Sept. 2021 - Sept. 2022 for IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) on IEEE Xplore®.
 
-My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) in 2019  – now celebrated with **over 2,000 stars on GitHub** – and have kept developing ever since. Our S3PRL Toolkit provides an easy-to-use interface to the speech community, including self-supervised foundation models and downstream tasks.
+My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) in 2019  – now celebrated with **over 2,000 stars on GitHub** – and have kept developing ever since. Our S3PRL Toolkit provides an easy-to-use interface to the research community, including self-supervised foundation models and downstream tasks.
 
 [Back](#table-of-content)
 
