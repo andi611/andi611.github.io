@@ -23,7 +23,7 @@ redirect_from:
 My name is Andy T. (Ting-Wei) Liu.
 I received my Ph.D. degree in the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html) from the National Taiwan University (NTU), Taipei, Taiwan, in 2024, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/). I’m from the “Speech Processing and Machine Learning” laboratory at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 
-I offer more than five years of dedicated experience in: **deep learning**, **self-supervised learning**, and **foundation models** for speech and NLP, as well as **ASR (automatic speech recognition)** and **TTS (text-to-speech)**.
+I offer more than five years of dedicated experience in **deep learning, self-supervised learning, and foundation models for speech and NLP**.
 
 My scholarly impact is affirmed by [**over 1,500 citations and an h-index of 12 on Google Scholar**](https://scholar.google.com/citations?user=3FpZleMAAAAJ&hl=en). The IEEE Signal Processing Society has identified one of my publications, “TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech”, as one of the **top 25 downloaded articles** from Sept. 2021 - Sept. 2022 for IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) on IEEE Xplore®.
 
@@ -32,26 +32,25 @@ My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded 
 [Back](#table-of-content)
 
 # Work Experience
-- **Ph.D. Research Intern**<br/>
-    [AICS (ASUS Intelligent Cloud Services)](https://aics.asus.com/)<br/>
-    Taipei, Taiwan, Nov. 2021 - Jun. 2023.<br/>
-    - Worked with the AICS Singapore AI research team under the supervision of [Stefan Winkler](https://www.linkedin.com/in/winklers/).<br/>
-    - Led the NTU Speech Lab team in a collaborative effort with AICS on research projects focusing on developing AI solutions in the healthcare sector.<br/>
-    - The NTU Speech Lab team built an online pre-clinic consultation system that takes speech as input, implemented with reasoning from SOTA ChatGPT models and speech recognition from the Whisper model.<br/>
-
 - **Applied Scientist Intern**<br/>
     [AWS (Amazon Web Services)](https://aws.amazon.com/)<br/>
     New York, U.S.A, Jun. 2021 - Oct. 2021.<br/>
     - Worked with the Amazon Transcribe team under the supervision of [Andrew Arnold](https://www.linkedin.com/in/andrewoarnold/) and [Wei Xiao](https://www.linkedin.com/in/wei-xiao-0b973361/).<br/>
-    - Written a research paper that describes how to achieve low-resource NER (Named Entity Recognition) through prompting QA (Question Answering) models.<br/>
-    - Built fully automated machine learning QA pipelines for few-shot NER using PyTorch and Huggingface.<br/>
-    - Implemented several few-shot NER baselines and adopted them on multiple datasets.<br/>
+    - Completed a research paper that uses prompting foundation models to achieve low-resource NER (Named Entity Recognition).<br/>
+    - Built fully automated machine learning NLP pipelines for few-shot NLP using PyTorch and Huggingface.<br/>
+    - Implemented several few-shot baselines and adopted them on multiple datasets.<br/>
 
-- **Ph.D. Research Intern**<br/>
+- **Ph.D. Student Program**<br/>
+    [AICS (ASUS Intelligent Cloud Services)](https://aics.asus.com/)<br/>
+    Taipei, Taiwan, Nov. 2021 - Jun. 2023.<br/>
+    - Worked with the AICS Singapore AI research team under the supervision of [Stefan Winkler](https://www.linkedin.com/in/winklers/).<br/>
+    - Worked on research projects developing AI solutions in the healthcare sector.<br/>
+
+- **Ph.D. Student Program**<br/>
     [AICS (ASUS Intelligent Cloud Services)](https://aics.asus.com/)<br/>
     Taipei, Taiwan, Sep. 2020 - Jun. 2021.<br/>
     - Worked with the AICS medical team under the supervision of Professor [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/) and Professor [Victor Tsai](https://www.cs.nccu.edu.tw/~mftsai/).<br/>
-    - Implemented unsupervised graph representation learning that encodes client information in the medical domain.<br/>
+    - Worked on representation learning algorithms that encode patient information in the medical domain.<br/>
 
 [Back](#table-of-content)
 
