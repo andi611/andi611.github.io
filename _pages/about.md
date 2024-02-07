@@ -23,7 +23,7 @@ redirect_from:
 My name is Andy T. (Ting-Wei) Liu.
 I received my Ph.D. degree in the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html) from the National Taiwan University (NTU), Taipei, Taiwan, in 2024, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/). I’m from the “Speech Processing and Machine Learning” laboratory at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 
-I offer more than five years of dedicated experience in **deep learning, self-supervised learning, and foundation models for speech and NLP**.
+I offer more than five years of dedicated experience in **machine learning, self-supervised learning, foundation models, and generative models for speech and NLP**.
 
 My scholarly impact is affirmed by [**over 1,500 citations and an h-index of 12 on Google Scholar**](https://scholar.google.com/citations?user=3FpZleMAAAAJ&hl=en). The IEEE Signal Processing Society has identified one of my publications, “TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech”, as one of the **top 25 downloaded articles** from Sept. 2021 - Sept. 2022 for IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) on IEEE Xplore®.
 
