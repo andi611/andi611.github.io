@@ -21,36 +21,36 @@ redirect_from:
 
 # About Me
 My name is Andy T. (Ting-Wei) Liu.
-I received my Ph.D. degree in the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html) from the National Taiwan University (NTU), Taipei, Taiwan, in 2024, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/). I’m from the “Speech Processing and Machine Learning” laboratory at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
+I received my Ph.D. in [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html) from the [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/) in January 2024, under the supervision of Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/). As part of the "Speech Processing and Machine Learning" lab at NTU, I also had the privilege of collaborating with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 
-I offer more than five years of dedicated experience in **machine learning, self-supervised learning, foundation models, and generative models for speech and NLP**.
+With over five years of dedicated experience, I specialize in **Self-Supervised Learning (SSL), Speech Foundation Models, Automatic Speech Recognition (ASR), Large Language Models (LLM), and Multimodal Models**. My research has garnered significant attention, accumulating [**over 1,800 citations and an h-index of 12 on Google Scholar**](https://scholar.google.com/citations?user=3FpZleMAAAAJ&hl=en).
 
-My scholarly impact is affirmed by [**over 1,500 citations and an h-index of 12 on Google Scholar**](https://scholar.google.com/citations?user=3FpZleMAAAAJ&hl=en). The IEEE Signal Processing Society has identified one of my publications, “TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech”, as one of the **top 25 downloaded articles** from Sept. 2021 - Sept. 2022 for IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) on IEEE Xplore®.
+One of my publications, "TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech," was recognized by the IEEE Signal Processing Society as one of the [**top 25 downloaded articles**](https://ieeexplore.ieee.org/document/9478264) from Sept. 2021 - Sept. 2022 for IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) on IEEE Xplore®.
 
-My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) in 2019  – now celebrated with **over 2,000 stars on GitHub** – and have kept developing ever since. Our S3PRL Toolkit provides an easy-to-use interface to the research community, including self-supervised foundation models and downstream tasks.
+As a co-founder of the [S3PRL Toolkit](https://github.com/s3prl/s3prl), which has earned over 2,100 stars on GitHub, I've been actively developing this resource since 2019. The S3PRL Toolkit provides an easy-to-use interface for the research community, offering access to self-supervised foundation models and downstream tasks.
+
+I am passionate about advancing speech processing and machine learning technologies, and I remain committed to bridging the gap between cutting-edge research and practical applications in this dynamic field.
 
 [Back](#table-of-content)
 
 # Work Experience
+- **Doctoral Research Assistant**<br/>
+    [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/)<br/>
+    Taipei, Taiwan, Sep. 2018 - Jan. 2024.<br/>
+    - When pursuing my PhD, I was advised by Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) from the “Speech Processing and Machine Learning” lab at [NTU](https://www.ntu.edu.tw/english/).
+
 - **Applied Scientist Intern**<br/>
-    [AWS (Amazon Web Services)](https://aws.amazon.com/)<br/>
+    [Amazon Web Services (AWS)](https://aws.amazon.com/)<br/>
     New York, U.S.A, Jun. 2021 - Oct. 2021.<br/>
     - Worked with the Amazon Transcribe team under the supervision of [Andrew Arnold](https://www.linkedin.com/in/andrewoarnold/) and [Wei Xiao](https://www.linkedin.com/in/wei-xiao-0b973361/).<br/>
-    - Completed a research paper that uses prompting foundation models to achieve low-resource NER (Named Entity Recognition).<br/>
-    - Built fully automated machine learning NLP pipelines for few-shot NLP using PyTorch and Huggingface.<br/>
-    - Implemented several few-shot baselines and adopted them on multiple datasets.<br/>
+    - Completed a research project that uses LLM (Large Language Models) to achieve low-resource NER (Named Entity Recognition).<br/>
 
-- **Ph.D. Student Program**<br/>
-    [AICS (ASUS Intelligent Cloud Services)](https://aics.asus.com/)<br/>
-    Taipei, Taiwan, Nov. 2021 - Jun. 2023.<br/>
-    - Worked with the AICS Singapore AI research team under the supervision of [Stefan Winkler](https://www.linkedin.com/in/winklers/).<br/>
-    - Worked on research projects developing AI solutions in the healthcare sector.<br/>
-
-- **Ph.D. Student Program**<br/>
-    [AICS (ASUS Intelligent Cloud Services)](https://aics.asus.com/)<br/>
-    Taipei, Taiwan, Sep. 2020 - Jun. 2021.<br/>
-    - Worked with the AICS medical team under the supervision of Professor [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/) and Professor [Victor Tsai](https://www.cs.nccu.edu.tw/~mftsai/).<br/>
-    - Worked on representation learning algorithms that encode patient information in the medical domain.<br/>
+- **Ph.D. Researcher**<br/>
+    [ASUS Intelligent Cloud Services (AICS)](https://aics.asus.com/)<br/>
+    Taipei, Taiwan, Sep. 2020 - Apr. 2024.<br/>
+    - Under the AICS Ph.D. Student Program.
+    - Worked with the AI research team in Singapore remotely under the supervision of [Stefan Winkler](https://www.linkedin.com/in/winklers/) (Nov. 2021 - Jan 2024).<br/>
+    - Worked with the AI medical team under the supervision of Professor [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/) and Professor [Victor Tsai](https://www.cs.nccu.edu.tw/~mftsai/).<br/>
 
 [Back](#table-of-content)
 
@@ -87,6 +87,16 @@ My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded 
 
 # Publications
 *Sorted by recency
+- **On the social bias of speech self-supervised models**<br/>
+    Yi-Cheng Lin, Tzu-Quan Lin, Hsi-Che Lin, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
+    *Accepted by INTERSPEECH 2024, conference organized by the International Speech Communication Association (ISCA)*<br/>
+    [ [isca](https://isca-speech.org/event-5458779) | [arxiv](https://arxiv.org/abs/2406.04997) | [pdf](https://arxiv.org/pdf/2406.04997)
+
+- **A Large-Scale Evaluation of Speech Foundation Models**<br/>
+    Shu-wen Yang, <u>Andy T. Liu</u>, Heng-Jui Chang, Zili Huang, Cheng-I Lai, Haibin Wu, Jiatong Shi, Xuankai Chang, Hsiang-Sheng Tsai, Wen-Chin Huang, Tzu-hsun Feng, Po-Han Chi, Yist Y. Lin, Yung-Sung Chuang, Tzu-Hsien Huang, Wei-Cheng Tseng, Kushal Lakhotia, Shang-Wen Li, Abdelrahman Mohamed, Shinji Watanabe, Hung-yi Lee<br/>
+    *Published in IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 32, 2024 (TASLP)*<br/>
+    [ [ieee](https://ieeexplore.ieee.org/document/10502279) | [arxiv](https://arxiv.org/abs/2404.09385) ]
+
 - **Parallel Synthesis for Autoregressive Speech Generation**<br/>
     Po-chun Hsu, Da-rong Liu, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Published in IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 31, 2023 (TASLP)*<br/>
@@ -156,6 +166,8 @@ My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded 
 
 # Professional Volunteer Experience
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655">IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</a></span> <span style="flex:  0 0 auto"><i>Journal, 2024</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://2024.aclweb.org/">ACL 2024</a></span> <span style="flex:  0 0 auto"><i>Conference, 2024</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://interspeech2024.org/">INTERSPEECH 2024</a></span> <span style="flex:  0 0 auto"><i>Conference, 2024</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a></span> <span style="flex:  0 0 auto"><i>Conference, 2024</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://2023.ieeeicassp.org/">ICASSP 2023</a></span> <span style="flex:  0 0 auto"><i>Conference, 2023</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Official reviewer of <a href="https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing">IEEE Open Journal of Signal Processing (OJSP)</a></span> <span style="flex:  0 0 auto"><i>Journal, 2023</i></span></p>
