@@ -90,7 +90,7 @@ I am passionate about advancing speech processing and machine learning technolog
 - **On the social bias of speech self-supervised models**<br/>
     Yi-Cheng Lin, Tzu-Quan Lin, Hsi-Che Lin, <u>Andy T. Liu</u>, Hung-yi Lee<br/>
     *Accepted by INTERSPEECH 2024, conference organized by the International Speech Communication Association (ISCA)*<br/>
-    [ [isca](https://isca-speech.org/event-5458779) | [arxiv](https://arxiv.org/abs/2406.04997) | [pdf](https://arxiv.org/pdf/2406.04997)
+    [ [isca](https://isca-speech.org/event-5458779) | [arxiv](https://arxiv.org/abs/2406.04997) | [pdf](https://arxiv.org/pdf/2406.04997) ]
 
 - **A Large-Scale Evaluation of Speech Foundation Models**<br/>
     Shu-wen Yang, <u>Andy T. Liu</u>, Heng-Jui Chang, Zili Huang, Cheng-I Lai, Haibin Wu, Jiatong Shi, Xuankai Chang, Hsiang-Sheng Tsai, Wen-Chin Huang, Tzu-hsun Feng, Po-Han Chi, Yist Y. Lin, Yung-Sung Chuang, Tzu-Hsien Huang, Wei-Cheng Tseng, Kushal Lakhotia, Shang-Wen Li, Abdelrahman Mohamed, Shinji Watanabe, Hung-yi Lee<br/>
@@ -109,7 +109,7 @@ I am passionate about advancing speech processing and machine learning technolog
  
 - **SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities**<br/>
     Hsiang-Sheng Tsai, Heng-Jui Chang, Wen-Chin Huang, Zili Huang, Kushal Lakhotia, Shu-wen Yang, Shuyan Dong, <u>Andy T. Liu</u>, Cheng-I Jeff Lai, Jiatong Shi, Xuankai Chang, Phil Hall, Hsuan-Jui Chen, Shang-Wen Li, Shinji Watanabe, Abdelrahman Mohamed, Hung-yi Lee<br/>
-    *Accepted by ACL 2022, conference organized by the Association for Computational Linguistics Association (ISCA)*<br/>
+    *Accepted by ACL 2022, Annual Meeting of the ACL, organized by the Association for Computational Linguistics (ACL)*<br/>
     [ [acl](https://aclanthology.org/2022.acl-long.580/) | [arxiv](https://arxiv.org/abs/2203.06849) | [pdf](https://aclanthology.org/2022.acl-long.580.pdf) | [code](https://github.com/s3prl/s3prl) ]
     
 - **SUPERB: Speech processing Universal PERformance Benchmark**<br/>
@@ -159,7 +159,7 @@ I am passionate about advancing speech processing and machine learning technolog
 
 - **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**<br/>
     <u>Andy T. Liu</u>, Po-chun Hsu, Hung-yi Lee<br/>
-    *Oral session in INTERSPEECH 2019, conference organized by the International Speech Communication Association (ISCA)*<br/>
+    *Oral session in INTERSPEECH 2019, a conference organized by the International Speech Communication Association (ISCA)*<br/>
     [ [isca](https://www.isca-speech.org/archive/interspeech_2019/liu19c_interspeech.html) | [arxiv](https://arxiv.org/abs/1905.11563) | [pdf](https://www.isca-archive.org/interspeech_2019/liu19c_interspeech.pdf) | [code](https://github.com/andi611/ZeroSpeech-TTS-without-T) | [slide](http://bit.ly/20190917_interspeech_talk) ]
 
 [Back](#table-of-content)
